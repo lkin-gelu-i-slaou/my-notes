@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lkin-gelu-i-slaou.github.io/my-notes/sitemap.xml
